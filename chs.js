@@ -836,7 +836,7 @@ var cnItems = {
     "White Crystal Formation": "白色晶体形成",
     "White Crystals": "白色水晶",
     "Frozen...": "冻结了...",
-    "": "",
+    "Sapphire Infusion": "蓝宝石灌注",
     "": "",
     "": "",
     "": "",
